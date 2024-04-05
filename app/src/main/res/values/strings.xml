@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Assasment</string>
+    <string name="gambar"> Gambar %1$s</string>
+    <string name="Next">%1$s</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Aplikasi ini adalah aplikasi android untuk user agar bisa mencuci pakaian tanpa harus mengantar dan mengambil langsung ke tempatnya. \n\nAplikasi ini dibuat untuk assasment Mobpro 1. \n\nCopyright © 2021 - 2024 Annisa Azzahra</string>
+    <string name="kembali">Kembali</string>
+    <string name="label_name">Name</string>
+    <string name="label_address">Address</string>
+    <string name="label_phone_number">Phone Number</string>
+    <string name="save_button">Save</string>
 </resources>
